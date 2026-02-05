@@ -146,21 +146,21 @@ namespace snake_game
 
         private void zaèáteèníkToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            timer1.Interval = 200;
+            timer1.Interval = 210;
             nazevRychlosti = "Zaèáteèník";
             pictureBox1.Invalidate();
         }
 
         private void pokroèilýToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            timer1.Interval = 90;
+            timer1.Interval = 100;
             nazevRychlosti = "Pokroèilý";
             pictureBox1.Invalidate();
         }
 
         private void expertToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            timer1.Interval = 50;
+            timer1.Interval = 60;
             nazevRychlosti = "Expert";
             pictureBox1.Invalidate();
         }
