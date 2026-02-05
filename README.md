@@ -1,6 +1,7 @@
 # Snake game
 
 Implementace klasické arkádové hry s rozšířenými možnostmi nastavení a herními režimy.
+
 Cílem je sběrem potravy dosáhnout maximální délky hada a zaplnit herní plochu.
 
 ## Herní režimy
@@ -33,7 +34,7 @@ Ukončení: Hru lze kdykoliv ukončit stisknutím klávesy ESC.
 
 Operační systém: Testováno a plně funkční na Windows 10 a Windows 11.
 
-### Autor
+## Autor
 
 Tereza Chachulová
 
