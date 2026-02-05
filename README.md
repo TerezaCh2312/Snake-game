@@ -13,7 +13,7 @@ Nový mód: Režim s průchozími zdmi. Hráč může procházet okraji herního
 
 Je možné si vybrat barvu pozadí, barvu hada, rychlost a jestli chci hrát nový nebo klasický mód.
 
-### Funkce a nastavení
+## Funkce a nastavení
 
 Před zahájením hry je k dispozici konfigurace parametrů:
 
@@ -29,11 +29,11 @@ Instrukce: Podrobné informace k ovládání a mechanismům jsou dostupné pří
 
 Ukončení: Hru lze kdykoliv ukončit stisknutím klávesy ESC.
 
-##Technické požadavky
+## Technické požadavky
 
 Operační systém: Testováno a plně funkční na Windows 10 a Windows 11.
 
-## Autor
+### Autor
 
 Tereza Chachulová
 
