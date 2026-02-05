@@ -18,9 +18,7 @@ Je možné si vybrat barvu pozadí, barvu hada, rychlost a jestli chci hrát nov
 ## Help
 
 Hru stačí spustit a nahoře je záložka nápovědy, která vysvětlí zbytek.
-```
 Hru můžete vždy ukončit klávesou ESC.
-```
 
 ## Autor
 
