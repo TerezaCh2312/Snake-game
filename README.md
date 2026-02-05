@@ -1,24 +1,37 @@
 # Snake game
 
-Hra, ve které je za úkol být co nejdelším hadem, ideálně přes všechny kostičky, pomocí sbírání jablíček.
+Implementace klasické arkádové hry s rozšířenými možnostmi nastavení a herními režimy.
+Cílem je sběrem potravy dosáhnout maximální délky hada a zaplnit herní plochu.
 
-## Popis
+## Herní režimy
 
-Hra má 2 módy: Klasiku a Nový módy
+Hra obsahuje dva definované módy, které mění pravidla kolizí:
 
-Klasika= při nabourání do zdi nebo sám do sebe hra končí.
-Nový = procházení zdmi a hra končí jen tehdy, kdy had nabourá sám do sebe.
+Klasika: Standardní režim, kde hra končí při nárazu do obvodové zdi nebo do vlastního těla.
+
+Nový mód: Režim s průchozími zdmi. Hráč může procházet okraji herního pole, hra končí pouze v případě kolize hada se sebou samým.
 
 Je možné si vybrat barvu pozadí, barvu hada, rychlost a jestli chci hrát nový nebo klasický mód.
 
-### Závislosti
+### Funkce a nastavení
 
-* Testováno na Windows 11 a Windows 10
+Před zahájením hry je k dispozici konfigurace parametrů:
 
-## Help
+Vizuální úprava: Volba barvy hada a barvy pozadí plochy.
 
-Hru stačí spustit a nahoře je záložka nápovědy, která vysvětlí zbytek.
-Hru můžete vždy ukončit klávesou ESC.
+Rychlost: Možnost regulace tempa hry pro úpravu obtížnosti.
+
+Volba módu: Přepínání mezi Klasikou a Novým módem.
+
+## Nápověda a ovládání
+
+Instrukce: Podrobné informace k ovládání a mechanismům jsou dostupné přímo v aplikaci v horní záložce "Nápověda".
+
+Ukončení: Hru lze kdykoliv ukončit stisknutím klávesy ESC.
+
+##Technické požadavky
+
+Operační systém: Testováno a plně funkční na Windows 10 a Windows 11.
 
 ## Autor
 
